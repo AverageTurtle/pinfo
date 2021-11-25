@@ -1,6 +1,6 @@
 # PINFO
 
-# Info
+## Info
 
 A simple mod to allow you to get basic info on other players online
 
